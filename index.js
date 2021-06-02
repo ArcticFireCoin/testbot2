@@ -28,7 +28,7 @@ let launchOptions = {
  * Token ID for vote. 
  * Token ID can be obtained from coinhunt. Use the browser debug tool to identify the token ID
  */
-const tokenCode = ''
+const tokenCode = '1539010549'
 
 /**
  * Proxy list input file
